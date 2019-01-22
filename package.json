@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template-slrnbase",
+  "version": "1.0.0",
+  "description": "a template for react native ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunleic/react-native-template-slrnbase.git"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "react"
+  ],
+  "author": "slpowercoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunleic/react-native-template-slrnbase/issues"
+  },
+  "homepage": "https://github.com/sunleic/react-native-template-slrnbase#readme"
+}
